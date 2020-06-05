@@ -1,0 +1,22 @@
+#modal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+
+#modal h1 {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 42px;
+  color: #F0F0F5;
+}
+
+#modal svg {
+  width: 64px;
+  height: 64px;
+  color: #34CB79;
+  margin-bottom: 15px;
+}
